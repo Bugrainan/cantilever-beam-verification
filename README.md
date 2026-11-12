@@ -26,7 +26,7 @@ Verification of a 3D linear elastic finite element model in **ANSYS Workbench 20
 ![Mesh Convergence](images/mesh_convergence.png)
 
 ### Total Deformation (`15 mm` Mesh)
-![Total Deformation](images/deformation_15mm.jpg)
+![Total Deformation](images/totaldeformation15mm.png)
 
 ### Equivalent von-Mises Stress (`15 mm` Mesh)
-![Equivalent Stress](images/stress_15mm.jpg)
+![Equivalent Stress](images/stress15mm.png)
